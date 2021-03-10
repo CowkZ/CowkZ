@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cowkzera&show_icons=true&theme=dark"/><br/><br/>
 </div>
 
-<p align="justify">Oi👋, Eu sou Adriano ou conhecido como Cowk e estou aprendendo JavaScript e sobre mongoDB, sou criador do Kisper um bot multiusos e muito bom.</p>
+<p align="justify">Oi👋, Eu sou Adriano ou conhecido como Cowk e estou aprendendo JavaScript e sobre mongoDB, sou criador do Kisper um bot multiusos que recomendo.</p>
 
 
 
