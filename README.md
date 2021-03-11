@@ -4,8 +4,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cowkzera&show_icons=true&theme=dark"/><br/><br/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cowkzera)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="justify">Oi👋, Eu sou Adriano ou conhecido como Cowk e estou aprendendo JavaScript e sobre mongoDB, sou criador do Kisper um bot multiusos que recomendo.</p>
 
 
