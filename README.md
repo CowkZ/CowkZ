@@ -2,9 +2,9 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cowkzera&show_icons=true&theme=dark"/><br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cowkzera&hide=TeX&layout=compact"/><br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cowkzera&hide=TeX&layout=compact)
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Shank&hide=TeX&layout=compact)
 
 <p align="justify">Oi👋, Eu sou Adriano ou conhecido como Cowk e estou aprendendo JavaScript e sobre mongoDB, sou criador do Kisper um bot multiusos que recomendo.</p>
 
