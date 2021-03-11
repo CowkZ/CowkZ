@@ -1,4 +1,6 @@
+<div align="center">
 ### Olá a todos, Eu sou o [Cowk](https://github.com/Cowkzera) 👋
+</div>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cowkzera&show_icons=true&theme=dark"/><br/><br/>
@@ -10,6 +12,8 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
+
 
 ### Redes Sociais
 - [Youtube](https://youtube.com/channel/UCuH2KhXOcGNVjiTIn9FO9TA)
